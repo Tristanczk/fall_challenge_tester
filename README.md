@@ -1,5 +1,6 @@
 # fall_challenge_tester
 
+Clone cg brutaltester (https://github.com/dreignier/cg-brutaltester) is a brutaltester folder in the root of this project.
 To compile, go to root of this repo and run
 ```bash
 sh compile.sh
